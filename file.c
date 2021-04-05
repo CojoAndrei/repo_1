@@ -7,6 +7,6 @@ int main(int a, int b)
 
 int main()
 {
-	printf("Hello World!");
+	printf("Hello , guys!");
 	return 0;
 }
